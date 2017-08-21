@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42ad34c-ffd2-4a5c-a727-be7f7112cb9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ceshi04.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ceshi04.java" afterPath="$PROJECT_DIR$/src/ceshi04.java" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="ceshi04.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ceshi04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15370019">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.3586338">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,6 +89,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/ceshi02.java" />
         <option value="$PROJECT_DIR$/src/ceshi03.java" />
+        <option value="$PROJECT_DIR$/src/ceshi04.java" />
       </list>
     </option>
   </component>
@@ -673,7 +674,7 @@
       <workItem from="1503286276047" duration="3133000" />
       <workItem from="1503298591545" duration="294000" />
       <workItem from="1503304091556" duration="1851000" />
-      <workItem from="1503306489327" duration="80000" />
+      <workItem from="1503306489327" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="1231123123">
       <created>1503304809624</created>
@@ -699,11 +700,17 @@
       <option name="project" value="LOCAL" />
       <updated>1503306541077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1231123123">
+      <created>1503306575619</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503306575619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5358000" />
+    <option name="totallyTimeSpent" value="5376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
@@ -877,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ceshi04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15370019">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.3586338">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
